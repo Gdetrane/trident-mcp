@@ -1,5 +1,9 @@
 # trident-mcp
 
+<p align="center">
+  <img src="assets/pipeline-showcase.png" alt="Pipeline showcase: reference images → AI concept → multi-view generation → 3D model" width="100%">
+</p>
+
 `trident-mcp` is a Go MCP server for AI-assisted 3D model generation and post-processing.
 
 The server is client-agnostic and works independently with any MCP-compatible client. You do not need any companion skills or extra MCP servers to use the core 3D generation, polling, download, and post-processing tools.
