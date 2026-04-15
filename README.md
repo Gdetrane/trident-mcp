@@ -1,10 +1,16 @@
 # trident-mcp
 
+[![Go](https://img.shields.io/badge/Go-1.25+-00ADD8?logo=go&logoColor=white)](https://go.dev)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![trident-mcp MCP server](https://glama.ai/mcp/servers/mordor-forge/trident-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mordor-forge/trident-mcp)
+
 <p align="center">
   <img src="assets/pipeline-showcase.png" alt="Pipeline showcase: reference images → AI concept → multi-view generation → 3D model" width="100%">
 </p>
 
 `trident-mcp` is a Go MCP server for AI-assisted 3D model generation and post-processing.
+
+[![trident-mcp MCP server](https://glama.ai/mcp/servers/mordor-forge/trident-mcp/badges/card.svg)](https://glama.ai/mcp/servers/mordor-forge/trident-mcp)
 
 The server is client-agnostic and works independently with any MCP-compatible client. You do not need any companion skills or extra MCP servers to use the core 3D generation, polling, download, and post-processing tools.
 
